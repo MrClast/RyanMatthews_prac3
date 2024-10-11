@@ -1,0 +1,11 @@
+---,Speaker,Dialogue,SelectableOptions
+NewRow,"NSLOCTEXT(""[FCA30FAD96AFD89F15C771F15EC59395]"", ""8D319AD04F75DD019FE9F5A80829587D"", ""Laz"")","NSLOCTEXT(""[FCA30FAD96AFD89F15C771F15EC59395]"", ""D99C4CA2457CB676DC003DA694F9D151"", ""Hmph nothing more than an old book"")","(NSLOCTEXT(""[A9C38D3938E12D4ED0BA872E8934D1B9]"", ""DA071F254763FC1BD3451388EFDCDE6A"", ""continue""))"
+NewRow_0,"NSLOCTEXT(""[FCA30FAD96AFD89F15C771F15EC59395]"", ""8D319AD04F75DD019FE9F5A80829587D"", ""Laz"")","NSLOCTEXT(""[A9C38D3938E12D4ED0BA872E8934D1B9]"", ""FE9A3EA945B4D352BF296A83A7B860C5"", ""Honestly thought this thing was lost when nostradumus took over, bastard destroyed nearly everything I owned. "")","(NSLOCTEXT(""[A9C38D3938E12D4ED0BA872E8934D1B9]"", ""76A72775448274E84776CE9198456779"", ""continue""))"
+NewRow_1,"NSLOCTEXT(""[A9C38D3938E12D4ED0BA872E8934D1B9]"", ""635FC2FC49D8A778B62A6DAFE9547251"", ""Codieces"")","NSLOCTEXT(""[A9C38D3938E12D4ED0BA872E8934D1B9]"", ""249E3C474A943372F96F9C9E5E2B3A03"", ""You rudly take me from where I can watch everything and the first thing you do is claim I was lost? How fitting for the likes of you. "")","(NSLOCTEXT(""[A9C38D3938E12D4ED0BA872E8934D1B9]"", ""5E9F1157491D9FCC1A740BAF008FD1C2"", ""This is new""))"
+NewRow_2,"NSLOCTEXT(""[FCA30FAD96AFD89F15C771F15EC59395]"", ""8D319AD04F75DD019FE9F5A80829587D"", ""Laz"")","NSLOCTEXT(""DT_BookIntro [A9C38D3938E12D4ED0BA872E8934D1B9]"", ""NewRow_2_Dialogue"", ""This is new. You were never able to talk before. What is happening here? "")","(NSLOCTEXT(""[A9C38D3938E12D4ED0BA872E8934D1B9]"", ""C6B5621A4EACB3AD7A93A498F370FAD8"", ""continue""))"
+3,"NSLOCTEXT(""DT_BookIntro [A9C38D3938E12D4ED0BA872E8934D1B9]"", ""3_Speaker"", ""Codieces"")","NSLOCTEXT(""DT_BookIntro [A9C38D3938E12D4ED0BA872E8934D1B9]"", ""3_Dialogue"", ""I\'ve always been able to speak you ignorant fool! I just chose not to, you were always an annoying child, much like the rest of your pitiful race. You are lucky to even be alive. "")","(""Annoying"",""Lucky"", ""Brash"")"
+4,,,
+5,,,
+6,,,
+7,,,
+8,,,
